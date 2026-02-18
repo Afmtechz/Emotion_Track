@@ -87,7 +87,7 @@ flask run
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is for personal or educational use. No license attached.
 
 ## 🤝 Contributing
 
@@ -95,4 +95,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 👤 Author
 
-* **Sohan** – [@Afmtechz](https://github.com/Afmtechz)
+* **Sohan** – [@Afmtechz](https://github.com/Afmtechz) [@sohan__9705](https://instagram.com/sohan__9705)
